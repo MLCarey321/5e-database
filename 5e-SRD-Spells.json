@@ -13407,5 +13407,3005 @@
 			}
 		],
 		"url": "http://dnd5eapi.co/api/spells/305"
+	},
+	{
+		"index": 306,
+		"name": "Abi-Dalzim's Horrid Wilting",
+		"desc": [
+			"You draw the moisture from every creature in a 30-foot cube centered on a point you choose within range. Each creature in that area must make a Constitution saving throw. Constructs and undead arenâ€™t affected, and plants and water elementals make this saving throw with disadvantage. A creature takes 12d8 necrotic damage on a failed save, or half as much damage on a successful one.",
+			"Nonmagical plants in the area that arenâ€™t creatures, such as trees and shrubs, wither and die instantly."
+		],
+		"page": "xge 150",
+		"range": "150 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"material": "a bit of sponge",
+		"ritual": "no",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 8,
+		"school": {
+			"name": "Necromancy",
+			"url": "http://dnd5eapi.co/api/magic-schools/7"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/306"
+	},
+	{
+		"index": 307,
+		"name": "Absorb Elements",
+		"desc": [
+			"The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+		],
+		"page": "xge 150",
+		"range": "self",
+		"components": [
+			"S"
+		],
+		"ritual": "no",
+		"duration": "1 round",
+		"concentration": "no",
+		"casting_time": "1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage",
+		"level": 1,
+		"school": {
+			"name": "Abjuration",
+			"url": "http://dnd5eapi.co/api/magic-schools/1"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/307"
+	},
+	{
+		"index": 308,
+		"name": "Aganazzar's Scorcher",
+		"desc": [
+			"A line of roaring flame 30 feet long and 5 feet wide emanates from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd."
+		],
+		"page": "xge 150",
+		"range": "30 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"material": "a red dragon's scale",
+		"ritual": "no",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Evocation",
+			"url": "http://dnd5eapi.co/api/magic-schools/5"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/308"
+	},
+	{
+		"index": 309,
+		"name": "Beast Bond",
+		"desc": [
+			"You establish a telepathic link with one beast you touch that is friendly to you or charmed by you. The spell fails if the beast's intelligence score is 4 or higher. Until the spell ends, the link is active while you and the beast are within line of sight of each other. Through the link, the beast can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the beast gains advantage on attack rolls against any creature within 5 feet of you that you can see."
+		],
+		"page": "xge 150",
+		"range": "Touch",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"material": "a bit of fur wrapped in a cloth",
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "yes",
+		"casting_time": "1 action",
+		"level": 1,
+		"school": {
+			"name": "Divination",
+			"url": "http://dnd5eapi.co/api/magic-schools/3"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/309"
+	},
+	{
+		"index": 310,
+		"name": "Bones of the Earth",
+		"desc": [
+			"You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 5 feet and a height of up to 30 feet. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a 10-foot radius that lasts until the rubble is cleared. Each 5-foot-diameter portion of the area requires at least 1 minute to clear by hand.",
+			"If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.",
+			"If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th."
+		],
+		"page": "xge 150",
+		"range": "120 feet",
+		"components": [
+			"V",
+			"S"
+		],
+		"ritual": "no",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 6,
+		"school": {
+			"name": "Transmutation",
+			"url": "http://dnd5eapi.co/api/magic-schools/8"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/310"
+	},
+	{
+		"index": 311,
+		"name": "Catapult",
+		"desc": [
+			"Choose one object weighing 1 to 5 pounds within range that isn't being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st."
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"S"
+		],
+		"ritual": "no",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 1,
+		"school": {
+			"name": "Transmutation",
+			"url": "http://dnd5eapi.co/api/magic-schools/8"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/311"
+	},
+	{
+		"index": 312,
+		"name": "Catnap",
+		"desc": [
+			"You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall unconscious for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains unconscious for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd."
+		],
+		"page": "xge 151",
+		"range": "30 feet",
+		"components": [
+			"S",
+			"M"
+		],
+		"material": "a pinch of sand",
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 3,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/312"
+	},
+	{
+		"index": 313,
+		"name": "Cause Fear",
+		"desc": [
+			"You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a Wisdom saving throw or become frightened of you until the spell ends. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them."
+		],
+		"page": "xge 151",
+		"range": "60 feet",
+		"components": [
+			"V"
+		],
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "yes",
+		"casting_time": "1 action",
+		"level": 1,
+		"school": {
+			"name": "Necromancy",
+			"url": "http://dnd5eapi.co/api/magic-schools/7"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/313"
+	},
+	{
+		"index": 314,
+		"name": "Ceremony",
+		"desc": [
+			"You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.",
+			"Atonement.",
+			" You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom (Insight) check. On a successful check, you restore the target to its original alignment.",
+			"Bless Water.",
+			" You touch one vial of water and cause it to become holy water.",
+			"Coming of Age.",
+			" You touch one humanoid who is a young adult. For the next 24 hourse, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.",
+			"Dedication.",
+			" You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.",
+			"Funeral Rite.",
+			" You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell.",
+			"Wedding.",
+			" You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed."
+		],
+		"page": "xge 151",
+		"range": "Touch",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"material": "25 gp worth of powdered silver, which the spell consumes",
+		"ritual": "yes",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 hour",
+		"level": 1,
+		"school": {
+			"name": "Abjuration",
+			"url": "http://dnd5eapi.co/api/magic-schools/1"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/314"
+	},
+	{
+		"index": 315,
+		"name": "Chaos Bolt",
+		"desc": [
+			"You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type, as shown below.",
+			"- 1: Acid",
+			"- 2: Cold",
+			"- 3: Fire",
+			"- 4: Force",
+			"- 5: Lightning",
+			"- 6: Poison",
+			"- 7: Psychic",
+			"- 8: Thunder",
+			"If you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 30 feet of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.",
+			"A creature can be targeted only once by each casting of this spell."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st."
+		],
+		"page": "xge 151",
+		"range": "120 feet",
+		"components": [
+			"V",
+			"S"
+		],
+		"ritual": "no",
+		"duration": "Instantaneous",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 1,
+		"school": {
+			"name": "Evocation",
+			"url": "http://dnd5eapi.co/api/magic-schools/5"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/315"
+	},
+	{
+		"index": 316,
+		"name": "Charm Monster",
+		"desc": [
+			"You attempt to charm a creature you can see within range. It must make a Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature is friendly to you. When the spell ends, the creature knows it was charmed by you."
+		],
+		"higher_level": [
+			"When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 30 feet of each other when you target them."
+		],
+		"page": "xge 151",
+		"range": "30 feet",
+		"components": [
+			"V",
+			"S"
+		],
+		"ritual": "no",
+		"duration": "1 hour",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 4,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/316"
+	},
+	{
+		"index": 317,
+		"name": "Control Flames",
+		"desc": [
+			"You choose a nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:",
+			"- You instantly expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.",
+			"- You instantaneously extinguish the flames within the cube.",
+			"- You double or halve the area of bright light and dim light cast by the flame, change its color, or both. The change lasts for 1 hour.",
+			"- You cause simple shapes - such as the vague form of a creature, an inanimate object, or a location - to appear within the flames and animate as you like. The shapes last for 1 hour.",
+			"If you cast this spell multiple times, you can have up to three non-instantaneous effects created by it active at a time, and you can dismiss such an effect as an action."
+		],
+		"page": "xge 152",
+		"range": "60 feet",
+		"components": [
+			"S"
+		],
+		"ritual": "no",
+		"duration": "Instantaneous or 1 hour (see below)",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 0,
+		"school": {
+			"name": "Transmutation",
+			"url": "http://dnd5eapi.co/api/magic-schools/8"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/317"
+	},
+	{
+		"index": 318,
+		"name": "Control Winds",
+		"desc": [
+			"You take control of the air in a 100-foot cube that you can see within range. Choose one of the following effects when you cast the spell. The effect lasts for the spell's duration, unless you use your action on a later turn to switch to a different effect. You can also use your action to temporarily halt the effect or to restart one you've halted.",
+			"Gusts.",
+			" A wind picks up within the cube, continually blowing in a horizontal direction you designate. You choose the intensity of the wind: calm, moderate, or strong. If the wind is moderate or strong, ranged weapon attacks that enter or leave the cube or pass through it have disadvantage on their attack rolls. If the wind is strong, any creature moving against the wind must spend 1 extra foot of movement for each foot moved.",
+			"Downdraft.",
+			" You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made oagainst targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked prone.",
+			"Updraft.",
+			" You cause a sustained updraft within the cube, rising upward from the cube's bottom side. Creatures that end a fall within the cube take only half damage from the fall. When a creature in the cube makes a vertical jump, the creature can jump up to 10 feet higher than normal."
+		],
+		"page": "xge 152",
+		"range": "300 feet",
+		"components": [
+			"V",
+			"S"
+		],
+		"ritual": "no",
+		"duration": "1 hour",
+		"concentration": "yes",
+		"casting_time": "1 action",
+		"level": 5,
+		"school": {
+			"name": "Transmutation",
+			"url": "http://dnd5eapi.co/api/magic-schools/8"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/318"
+	},
+	{
+		"index": 319,
+		"name": "Create Bonfire",
+		"desc": [
+			"You create a bonfire on ground that you can see within range. Until the spell ends, the magic bonfire fills a 5-foot cube. Any creature in the bonfire's space when you cast the spell must succeed on a Dexterity saving throw or take 1d8 fire damage. A creature must also make the saving throw when it moves into the bonfire's space for the first time on a turn or ends its turn there.",
+			"The bonfire ignites flammable objects in its area that aren't being worn or carried.",
+			"The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8)."
+		],
+		"page": "xge 152",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S"
+		],
+		"ritual": "no",
+		"duration": "1 minute",
+		"concentration": "yes",
+		"casting_time": "1 action",
+		"level": 0,
+		"school": {
+			"name": "Conjuration",
+			"url": "http://dnd5eapi.co/api/magic-schools/2"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/?",
+				"name": "TODO"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/319"
+	},
+	{
+		"index": 320,
+		"name": "Create Homunculus",
+		"desc": [
+			"While speaking an intricate incantation, you cut yourself with a jewel-encrusted dagger, taking 2d4 piercing damage that can't be reduced in any way. You then drip your blood on the spell's other components and touch them, transforming them into a special construct called a homunculus.",
+			"The statistics of the homunculus are in the Monster Manual. It is your faithful companion, and it dies if you die. Whenever you finish a long rest, you can spend up to half your Hit Dice if the homonculus is on the same plane of existence as you. When you do so, roll each die and add your Constitution modifier to it. Your hit point maximum is reduced by the total, and the homunculus's hit point maximum and current hit points are both increased by it. This process can reduce you to no lower than 1 hit point, and the change to your and the homunculus's hit points ends when you finish your next long rest. The reduction to your hit point maximum can't be removed by any means before then, except by the homunculus's death.",
+			"You can have only one homunculus at a time. If you cast this spell while your homunculus lives, the spell fails."
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/320"
+	},
+	{
+		"index": 321,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/321"
+	},
+	{
+		"index": 322,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/322"
+	},
+	{
+		"index": 323,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/323"
+	},
+	{
+		"index": 324,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/324"
+	},
+	{
+		"index": 325,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/325"
+	},
+	{
+		"index": 326,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/326"
+	},
+	{
+		"index": 327,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/327"
+	},
+	{
+		"index": 328,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/328"
+	},
+	{
+		"index": 329,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/329"
+	},
+	{
+		"index": 330,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/330"
+	},
+	{
+		"index": 331,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/331"
+	},
+	{
+		"index": 332,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/332"
+	},
+	{
+		"index": 333,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/333"
+	},
+	{
+		"index": 334,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/334"
+	},
+	{
+		"index": 335,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/335"
+	},
+	{
+		"index": 336,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/336"
+	},
+	{
+		"index": 337,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/337"
+	},
+	{
+		"index": 338,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/338"
+	},
+	{
+		"index": 339,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/339"
+	},
+	{
+		"index": 340,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/340"
+	},
+	{
+		"index": 341,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/341"
+	},
+	{
+		"index": 342,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/342"
+	},
+	{
+		"index": 343,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/343"
+	},
+	{
+		"index": 344,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/344"
+	},
+	{
+		"index": 345,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/345"
+	},
+	{
+		"index": 346,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/346"
+	},
+	{
+		"index": 347,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/347"
+	},
+	{
+		"index": 348,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/348"
+	},
+	{
+		"index": 349,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/349"
+	},
+	{
+		"index": 350,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/350"
+	},
+	{
+		"index": 351,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/351"
+	},
+	{
+		"index": 352,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/352"
+	},
+	{
+		"index": 353,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/353"
+	},
+	{
+		"index": 354,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/354"
+	},
+	{
+		"index": 355,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/355"
+	},
+	{
+		"index": 356,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/356"
+	},
+	{
+		"index": 357,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/357"
+	},
+	{
+		"index": 358,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/358"
+	},
+	{
+		"index": 359,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/359"
+	},
+	{
+		"index": 360,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/360"
+	},
+	{
+		"index": 361,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/361"
+	},
+	{
+		"index": 362,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/362"
+	},
+	{
+		"index": 363,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/363"
+	},
+	{
+		"index": 364,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/364"
+	},
+	{
+		"index": 365,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/365"
+	},
+	{
+		"index": 366,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/366"
+	},
+	{
+		"index": 367,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/367"
+	},
+	{
+		"index": 368,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/368"
+	},
+	{
+		"index": 369,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/369"
+	},
+	{
+		"index": 370,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/370"
+	},
+	{
+		"index": 371,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/371"
+	},
+	{
+		"index": 372,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/372"
+	},
+	{
+		"index": 373,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/373"
+	},
+	{
+		"index": 374,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/374"
+	},
+	{
+		"index": 375,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/375"
+	},
+	{
+		"index": 376,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/376"
+	},
+	{
+		"index": 377,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/377"
+	},
+	{
+		"index": 378,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/378"
+	},
+	{
+		"index": 379,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/379"
+	},
+	{
+		"index": 380,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/380"
+	},
+	{
+		"index": 381,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/381"
+	},
+	{
+		"index": 382,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/382"
+	},
+	{
+		"index": 383,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/383"
+	},
+	{
+		"index": 384,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/384"
+	},
+	{
+		"index": 385,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/385"
+	},
+	{
+		"index": 386,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/386"
+	},
+	{
+		"index": 387,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/387"
+	},
+	{
+		"index": 388,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/388"
+	},
+	{
+		"index": 389,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/389"
+	},
+	{
+		"index": 390,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/390"
+	},
+	{
+		"index": 391,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/391"
+	},
+	{
+		"index": 392,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/392"
+	},
+	{
+		"index": 393,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/393"
+	},
+	{
+		"index": 394,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/394"
+	},
+	{
+		"index": 395,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/395"
+	},
+	{
+		"index": 396,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/396"
+	},
+	{
+		"index": 397,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/397"
+	},
+	{
+		"index": 398,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/398"
+	},
+	{
+		"index": 399,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/399"
+	},
+	{
+		"index": 400,
+		"name": "",
+		"desc": [
+			""
+		],
+		"page": "xge 150",
+		"range": "60 feet",
+		"components": [
+			"V",
+			"S",
+			"M"
+		],
+		"ritual": "no",
+		"duration": "10 minutes",
+		"concentration": "no",
+		"casting_time": "1 action",
+		"level": 2,
+		"school": {
+			"name": "Enchantment",
+			"url": "http://dnd5eapi.co/api/magic-schools/4"
+		},
+		"classes": [
+			{
+				"url": "http://dnd5eapi.co/api/classes/2",
+				"name": "Bard"
+			}
+		],
+		"subclasses": [],
+		"url": "http://dnd5eapi.co/api/spells/400"
 	}
 ]
